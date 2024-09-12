@@ -27,7 +27,7 @@
 
     static void Main(string[] args)
     {
-        PruebaVector1 pv = new PruebaVector1);
+        PruebaVector1 pv = new PruebaVector1();
         pv.Cargar();
         pv.Imprimir();
     }
