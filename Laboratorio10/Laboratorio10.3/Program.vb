@@ -17,6 +17,6 @@ Module Program
 
         ' Mostrar resultados
         Console.WriteLine("Peso del objeto: {0}", P)
-        Console.ReadKey()
+        'Console.ReadKey()
     End Sub
 End Module
