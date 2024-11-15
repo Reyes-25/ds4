@@ -1,16 +1,6 @@
-using Laboratorio15._2;
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
 
-internal class Program
-{
-    private static void Main(string[] args)
-    {
-        CreateHostBuilder(args).Build().Run();
-    }
+app.MapGet("/", () => "Hello World!");
 
-    public static IHostBuilder CreateHostBuilder(string[] args) => 
-        Host.CreateDefaultBuilder(args)
-        .ConfigureWebHostDefaults(WebBuilder =>
-        {
-            WebBuilder.UseStartup<Startup>();
-        });
-}
+app.Run();

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Laboratorio15._3")]
+[assembly: AssemblyTitle("Laboratorio15._4")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Laboratorio15._3")]
+[assembly: AssemblyProduct("Laboratorio15._4")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("4faa2456-1fc4-451f-ad27-d61dcfc8a388")]
+[assembly: Guid("777bc7c7-cb38-487e-884e-0d1b2c7c1455")]
 
 // Version information for an assembly consists of the following four values:
 //
